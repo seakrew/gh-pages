@@ -3,30 +3,10 @@
     <title>blog.crmchatbots.com</title>
     <link href="https://seakrew.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://seakrew.github.io/gh-pages" />
-    <updated>2023-09-23T22:06:12+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Rui</name>
     </author>
     <id>https://seakrew.github.io/gh-pages</id>
 
-    <entry>
-        <title>Olá vamos ver como fica isto</title>
-        <author>
-            <name>Rui</name>
-        </author>
-        <link href="https://seakrew.github.io/gh-pages/ola-vamos-ver-como-fica-isto.html"/>
-        <id>https://seakrew.github.io/gh-pages/ola-vamos-ver-como-fica-isto.html</id>
-
-        <updated>2023-09-23T22:06:12+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Sim pois
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Sim pois</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
